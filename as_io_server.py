@@ -83,6 +83,7 @@ while 1:
             print "connected by",clientaddr
 			print "welcome!"
 			print "nihao"
+			print "yes"
         else:
            try: 
             data=r.recv(1024);  
