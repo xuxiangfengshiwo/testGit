@@ -84,6 +84,7 @@ while 1:
 			print "welcome!"
 			print "nihao"
 			print "yes"
+			print "no"
         else:
            try: 
             data=r.recv(1024);  
