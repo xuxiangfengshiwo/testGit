@@ -81,6 +81,8 @@ while 1:
             inputs.append(clientsock);
 ##            print inputs
             print "connected by",clientaddr
+			print "welcome!"
+			print "nihao"
         else:
            try: 
             data=r.recv(1024);  
